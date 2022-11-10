@@ -1,0 +1,23 @@
+.box1 {
+    padding: 10px;
+    background-color: red;
+    /* display: inline-block; */
+}
+.box2 {
+    padding: 10px;
+    background-color: yellow;
+    /* display: inline-block; */
+}
+
+.box {
+    background-color: red;
+    display: inline-block;
+    padding: 10px;
+}
+span {
+    display: inline-block;
+    background-color: green;
+    padding: 10px;
+    height: 75px;
+    width: 35px;
+}
